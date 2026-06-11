@@ -1,4 +1,8 @@
-# PowerShell Help Desk Toolkit
+## Latest Release
+
+Download the latest version from the Releases section:
+
+- PowerShell Help Desk Toolkit v1.0# PowerShell Help Desk Toolkit
 
 ## Overview
 
